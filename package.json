@@ -2,8 +2,8 @@
   "name": "@hypermod/e18e",
   "version": "1.0.0",
   "type": "module",
-  "description": "Runnable versions of module-replacements-codemods repo via [@hypermod/cli](https://www.hypermod.io/docs/tools/cli)",
   "main": "hypermod.config.js",
+  "description": "Runnable versions of module-replacements-codemods repo via [@hypermod/cli](https://www.hypermod.io/docs/tools/cli)",
   "scripts": {
     "codegen:readme": "node scripts/codegen-readme.js",
     "test": "echo \"Error: no test specified\" && exit 1"
