@@ -5,9 +5,9 @@ const config = {
     acc[key] = (file, { jscodeshift: j }, options) => {
       const transform = codemods[key](options);
       return transform(file, { j });
-    }
+    };
     return acc;
-  });
+  }),
 };
 
 export default config;
