@@ -1,6 +1,6 @@
 {
   "name": "@hypermod/e18e",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "hypermod.config.js",
   "description": "Runnable versions of module-replacements-codemods repo via [@hypermod/cli](https://www.hypermod.io/docs/tools/cli)",
