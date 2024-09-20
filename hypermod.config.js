@@ -7,7 +7,7 @@ const config = {
       return transform(file, { j });
     };
     return acc;
-  }),
+  }, {}),
 };
 
 export default config;
